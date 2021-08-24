@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4pF5ux9XkXcyli/j3EMaJliKl9w2vrYKcFjv0npsAQ74XxKe9/ylMIPR9LLF0otdykSamjH0IUSkpbrvokalNQ==",
+  "dgSpecHash": "H4B27QZkygnvjhjN8Ni/VwgQOPfKmf24E0F7YTyDSVJzP1nV5Nvhs1Z1tzw1VT1r+fbHNR4A1VVmMBIMn2lKVw==",
   "success": true,
   "projectFilePath": "D:\\CodeThings\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Mike\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
